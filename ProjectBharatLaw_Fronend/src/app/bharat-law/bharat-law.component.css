@@ -1,0 +1,27 @@
+
+.navbar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.username{
+    color:rgb(10,0,77) ;
+    font-size: larger;
+    
+}
+.container{
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.uper{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+.research{
+    display: flex;
+    flex-wrap: wrap;
+}
