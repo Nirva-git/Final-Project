@@ -2,11 +2,17 @@
 ProjectBharatLaw_Backend/bin
 ProjectBharatLaw_Backend/obj
 vs
+.vscode
+vscode
 #approach 2
 bin/
 obj/
 vs/
+.vscode/
+vscode/
 #approach 3
 .vs
 ./bin
 ./obj
+./.vscode
+./vscode
